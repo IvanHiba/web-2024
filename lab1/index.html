@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Starflix Cinema</title>
+</head>
+<body>
+  <header>
+    <h1 id="mainTitle">Welcome to Starflix Cinema</h1>
+    <p id="currentTime">Current Time: </p>
+  </header>
+
+  <nav id="navbar">
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#movies">Movies</a></li>
+      <li><a href="#genres">Genres</a></li>
+      <li><a href="#contact">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <section id="movieSection">
+    <h2>Our Top Movies</h2>
+    <ul id="movieList">
+      <li>Inception</li>
+      <li>The Matrix</li>
+      <li>Parasite</li>
+      <li>Interstellar</li>
+      <li>Titanic</li>
+    </ul>
+  </section>
+
+  <button id="randomBgColor">Change Background Color</button>
+
+  <div class="textEntry">
+    Enter your favorite genre:
+    <input type="text" id="genreInput" autocomplete="off">
+  </div>
+
+  <button id="submitGenre">Submit Genre</button>
+  <p id="suggestion"></p>
+
+  <footer>
+    <p>&copy; 2024 Starflix Cinema. Connect with us:</p>
+    <ul id="socialLinks">
+      <li><a href="#" class="socialLink">Twitter</a></li>
+      <li><a href="#" class="socialLink">Facebook</a></li>
+      <li><a href="#" class="socialLink">Instagram</a></li>
+    </ul>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
