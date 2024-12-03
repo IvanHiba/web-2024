@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Quotes Saver",
+  "version": "1.0",
+  "description": "Save your favorite quotes directly in the browser!",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png",
+    "default_popup_size": {
+      "width": 500,
+      "height": 600
+    }
+  },
+  "permissions": [
+    "storage"
+  ]
+}
