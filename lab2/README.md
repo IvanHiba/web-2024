@@ -10,12 +10,14 @@ Delete individual quotes or clear all quotes at once.
 Automatically saves quotes using local storage.
 
 **How to Install**
+
 Clone or download the repository to your local machine.
 Open the Chrome Extensions page.
 Enable Developer mode in the top-right corner.
 Click Load unpacked and select the folder containing the extension files.
 
 **Usage**
+
 Click on the Quotes Saver extension icon in your Chrome browser.
 Use the input field to type your favorite quote.
 Click Add Quote to save it.
