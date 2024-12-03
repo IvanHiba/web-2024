@@ -1,7 +1,9 @@
 **Quotes Saver**
+
 Quotes Saver is a Google Chrome extension that allows users to save and manage their favorite quotes directly in the browser. The quotes are stored locally, ensuring they remain available across browsing sessions.
 
 **Features**
+
 Add new quotes to your personal collection.
 View and manage saved quotes in a user-friendly interface.
 Delete individual quotes or clear all quotes at once.
